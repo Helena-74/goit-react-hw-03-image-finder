@@ -44,15 +44,6 @@ export default Searchbar;
 // import PropTypes from 'prop-types';
 // import styles from './Searchbar.module.css';
 
-// class Searchbar extends Component {
-//   state = {
-//     query: '',
-//   };
-
-//   handleChange = e => {
-//     this.setState({ query: e.target.value });
-//   };
-
 //   handleSubmit = e => {
 //     e.preventDefault();
 //     this.props.onSubmit(this.state.query);
