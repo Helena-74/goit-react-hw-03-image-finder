@@ -44,7 +44,7 @@ class App extends Component {
         }));
       })
       .catch((error) => {
-        this.setState({ error: 'Не вдалося завантажити зображення', loading: false });
+        this.setState({ error: 'Failed to load images', loading: false });
       });
   };
 
