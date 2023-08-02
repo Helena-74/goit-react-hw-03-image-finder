@@ -34,13 +34,3 @@ class Modal extends Component {
 }
 
 export default Modal;
-
-// import React, { Component } from 'react';
-// import PropTypes from 'prop-types';
-
-// Modal.propTypes = {
-//   largeImageURL: PropTypes.string.isRequired,
-//   onClose: PropTypes.func.isRequired,
-// };
-
-// export default Modal;
